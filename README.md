@@ -55,8 +55,10 @@ Example Output
 The terminal will show the timestamps and prices for each cryptocurrency, and a Plotly graph will visualize the price trends.
 
 SCREENSHOTS:
-![TERMINAL](https://github.com/user-attachments/assets/8703c515-8e9f-466e-9214-0dd69e4b410d)
-![REALTIME VISUALS](https://github.com/user-attachments/assets/a99bfd66-fc47-4212-83a8-0f04b0970a14)
+![TERMINAL](https://github.com/user-attachments/assets/6cc41d8e-2bda-4a2c-819e-5a2bcfecaa97)
+![REALTIME VISUALS](https://github.com/user-attachments/assets/d070e073-058a-4d3a-b61d-54648f97dd0f)
+
+
 
 2024-07-26 10:00:00 - bitcoin: $30000
 2024-07-26 10:01:00 - ethereum: $2000
